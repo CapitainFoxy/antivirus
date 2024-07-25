@@ -1,0 +1,13 @@
+{
+    "EnableAutoScan": true,
+    "ScanIntervalHours": 24,
+    "EmailSettings": {
+        "SmtpServer": "smtp.example.com",
+        "Port": 587,
+        "Username": "your-email@example.com",
+        "Password": "your-email-password"
+    },
+    "QuarantinePath": "C:\\Quarantine",
+    "LogFilePath": "C:\\Logs\\log.txt",
+    "ReportPath": "C:\\Reports\\report.txt"
+}
